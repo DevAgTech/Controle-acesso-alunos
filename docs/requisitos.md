@@ -6,6 +6,7 @@
 - RF02: O sistema deve permitir consultar alunos.
 - RF03: O sistema deve permitir alterar os dados dos alunos.
 - RF04: O sistema deve permitir excluir alunos.
+- - RF05: O sistema deve permitir identificar cada aluno por uma matrícula única.
 
 ## Requisitos não funcionais
 
